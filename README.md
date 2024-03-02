@@ -1,2 +1,4 @@
 # sql-census-data
-author-tushar
+Author-Tushar kant swain
+<br>
+End to end SQL project
